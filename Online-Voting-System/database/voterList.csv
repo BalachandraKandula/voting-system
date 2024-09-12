@@ -1,0 +1,23 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,chandra,Male,West,Ongole,abcd,1
+1,10002,koushi,Female,South,Mummidivaram,abcd,0
+2,10003,sriram,Male,East,Amalapuram,abcd,1
+3,10004,anila,Female,East,Kakinada,abcd,0
+4,10005,hanu,Male,North,Chirala,abcd,1
+5,10006,nithin,Male,East,Darsi,abcd,1
+6,10007,Avinash,Male,South,Vijayawada,abcd,1
+7,10008,Vinod,Male,east,kakinada,abcd,1
+8,10009,abhi,Male,east,rajahmundry,abcd,1
+9,10010,sri,Female,west,amalapuram,abcd,1
+10,10011,varma,Male,west,amalapuram,abcd,0
+11,10012,anil,Male,east,amalapuram,abcd,1
+12,10013,chandra,Male,east,yanam,abcd,1
+13,10014,ANIL,Transgender,ALL,PEDDAPURAM,abcd,1
+14,10015,poorni,Female,central,vizag,abcd,0
+15,10016,raju,Male,central,vizag,abcd,1
+16,10017,hema,Female,central,yanam,abcd,1
+17,10018,sai,Male,central,ongole,abcd,1
+18,10019,gopi,Transgender,central,kavali,abcd,1
+19,10020,sai priya,Female,east,amalapuram,abcd,1
+20,10021,avinash,Male,central,ravulapalem,abcd,1
+21,10022,rajeev,Male,west,kakinada,abcd,1
